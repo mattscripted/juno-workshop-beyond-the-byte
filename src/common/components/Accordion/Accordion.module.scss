@@ -1,0 +1,19 @@
+.accordion {
+  border: 1px solid black;
+  color: black;
+}
+
+.accordion__header {
+  padding: 8px;
+  background: #f0f0f0;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.accordion__content {
+  padding: 8px;
+}
+
+.accordion__content--is-closed {
+  display: none;
+}
