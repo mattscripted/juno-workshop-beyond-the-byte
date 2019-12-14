@@ -2,7 +2,7 @@ import React from 'react'
 
 import { Accordion } from 'common/components'
 
-export const HelloWorld = () => (
+export const Home = () => (
   <>
     <p>
       Hello World
