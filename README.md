@@ -1,7 +1,6 @@
-# twg-react-project-template
-A template to make React projects based on [TWG's React project structure](https://github.com/twg/react-guidelines/blob/master/guidelines/project-structure.md).
+# Juno Workshop / Beyond the Byte
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Base project for the "Iterative Development" code-along.
 
 ## Available Scripts
 
